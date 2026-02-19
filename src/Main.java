@@ -5,6 +5,12 @@ public class Main {
         System.out.println("Cuadra Los Chilacos");
         System.out.println("18 años");
 
+        System.out.println("---------------------------------------------");
+
+        System.out.println("No tengo hermanos ");
+        System.out.println("Padre: Rodolfo Diaz Herrera");
+        System.out.println("Madre: Yenny Constanza Arevalo Cortes");
+
 
 
     }
